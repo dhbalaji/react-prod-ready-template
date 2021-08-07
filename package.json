@@ -50,6 +50,6 @@
         "source-map-explorer": "^2.5.2"
     },
     "engines": {
-        "npm": "7.20.5"
+        "npm": "12.21.0"
     }
 }
