@@ -11,16 +11,14 @@
     {
       "matchDepTypes": ["optionalDependencies"],
       "addLabels": ["optional"]
-    }
-  ],
-  "assignees": "dhbalaji",
-  "assignAutomerge": true,
-  "packageRules": [
+    },
     {
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true
     }
   ],
+  "assignees": ["dhbalaji"],
+  "assignAutomerge": true,
   "automergeType": "pr",
   "baseBranches": ["master", "dev"],
   "prHourlyLimit": 0
