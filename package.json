@@ -47,7 +47,7 @@
     },
     "devDependencies": {
         "prettier": "2.4.1",
-        "sass": "1.42.0",
+        "sass": "1.42.1",
         "source-map-explorer": "2.5.2"
     },
     "engines": {
