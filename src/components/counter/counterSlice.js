@@ -1,4 +1,4 @@
-import { createAction, createSlice } from '@reduxjs/toolkit'
+import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
     count: 0,
@@ -28,7 +28,6 @@ export const counterSlice = createSlice({
 
 export const checkAndIncrement = () => (dispatch, getState) => {
     const prevCounterValue = getCount(getState());
-    console.log(prevCounterValue);
 
     if (prevCounterValue > 2) {
         dispatch(error())

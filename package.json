@@ -5,7 +5,7 @@
     "private": true,
     "repository": {
         "type": "git",
-        "url": "https://github.com/dhbalaji/reactStaticPageScaffold"
+        "url": "https://github.com/dhbalaji/react-prod-ready-template"
     },
     "dependencies": {
         "@reduxjs/toolkit": "1.6.2",
