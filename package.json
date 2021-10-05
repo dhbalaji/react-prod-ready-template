@@ -8,7 +8,7 @@
         "url": "https://github.com/dhbalaji/reactStaticPageScaffold"
     },
     "dependencies": {
-        "@reduxjs/toolkit": "1.6.1",
+        "@reduxjs/toolkit": "1.6.2",
         "@sentry/react": "6.13.2",
         "@sentry/tracing": "6.13.2",
         "immutable": "4.0.0-rc.15",
