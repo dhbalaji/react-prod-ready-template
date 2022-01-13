@@ -51,6 +51,6 @@
         "source-map-explorer": "2.5.2"
     },
     "engines": {
-        "npm": "8.3.0"
+        "npm": "8.3.1"
     }
 }
