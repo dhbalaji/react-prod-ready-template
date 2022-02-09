@@ -8,7 +8,7 @@
         "url": "https://github.com/dhbalaji/react-prod-ready-template"
     },
     "dependencies": {
-        "@reduxjs/toolkit": "1.7.1",
+        "@reduxjs/toolkit": "1.7.2",
         "@sentry/react": "6.17.6",
         "@sentry/tracing": "6.17.6",
         "immutable": "4.0.0",
